@@ -5,7 +5,7 @@ import {google, slack, atlassian, dropbox, shopify} from './index'
 
 const Brand = () => {
   return (
-    <div className="gpt3__brand section__padding">
+    <div className="gpt3__brand section_padding">
       <div>
         <img src={google} alt='google' />
       </div>
