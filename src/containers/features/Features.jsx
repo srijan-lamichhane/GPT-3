@@ -5,7 +5,7 @@ import React from 'react'
 
 const Features = ({title, text}) => {
   return (
-    <div className='gpt3__features section_padding'>
+    <div className='gpt3__features section_padding' id='features'>
 
       <div className="gpt3__features-heading">
         <h1 className='gradient__text'>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
