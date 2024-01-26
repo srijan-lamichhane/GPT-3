@@ -3,3 +3,4 @@
 
 (App.css) contains the basic styling of the page for: (gradient background, gradient text,section padding and margin, animations.)
 
+remove border from cta.css
