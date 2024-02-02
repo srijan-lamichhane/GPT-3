@@ -5,7 +5,7 @@ import React from 'react'
 
 const Possibility = () => {
   return (
-    <div className='gpt3__possibility section_padding'>
+    <div className='gpt3__possibility section_padding' id='possibility'>
       <div className="gpt3__possibility-image">
         <img src={possibilityImage} alt="possibility" />
       </div>
